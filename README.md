@@ -8,7 +8,7 @@ Then, hit F1 to compute the answer.
 
 ### Compilation
 
-**ncurses** and **form** libraries ar needed for puzzle edition.
+**ncurses** and **form** libraries are needed for puzzle edition.
 On ubuntu, librairies can be installed with this command :
 
 `sudo apt-get install libncurses-dev`
