@@ -13,4 +13,4 @@ On ubuntu, librairies can be installed with this command :
 
 `sudo apt-get install libncurses-dev`
 
-Run make to compile the program
+Run make to compile the program.
